@@ -1,11 +1,4 @@
-#
-# Valuation of European call options in Black-Scholes-Merton Model
-# incl. Vega function and implied volatility estimation
-# -- class-based implementation
-#
-# Python for Finance, 2nd ed.
-# (c) Dr. Yves J. Hilpisch
-#
+#Reference:(Python for Finance, 2nd ed.,Dr. Yves J. Hilpisch)
 import numpy as np
 from scipy import stats
 
